@@ -1,24 +1,15 @@
-# README
+## Graph_ql_app_with_rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is rails with graphql with very basic configurations anyone can fork it and play with it to improve graphql query
 
-Things you may want to cover:
+how to setup and run:
 
-* Ruby version
+* use `ruby version 3.2.0`
 
-* System dependencies
+* run `bundle install`
 
-* Configuration
+* run `rails db:seed`
 
-* Database creation
+everything set up now you can play with already build tables and practice your grapgql or you can make new.
+feel free to create issue if you find any trouble/bug/suggestion.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
